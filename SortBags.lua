@@ -136,7 +136,7 @@ local CLASSES = {
 	},
 }
 
-local defaultDelay = .2
+local defaultDelay = .6
 if IsPlayingOnTurtleWoW() then
 	-- https://turtle-wow.org/bug-report?id=2395
 	defaultDelay = 1.2
